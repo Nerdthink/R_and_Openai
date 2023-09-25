@@ -1,6 +1,9 @@
 # R_and_Openai
 Build interactive chatbots using OpenAI's GPT-3.5-Turbo with R Shiny for dynamic conversations.
 
+![Screenshot (87)](https://github.com/Nerdthink/R_and_Openai/assets/78198527/6d847ee6-0cc9-4755-aa98-994d06843f21)
+
+
 # Overview
 This project demonstrates the integration of OpenAI's language models, specifically GPT-3.5-Turbo, with R Shiny to create an interactive chat interface. Whether you're interested in building a chatbot, virtual assistant, or an innovative chat application, this repository provides the foundation to get started.
 
